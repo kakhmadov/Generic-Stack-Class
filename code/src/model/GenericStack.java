@@ -79,7 +79,7 @@ public class GenericStack<E> {
     /**
      * This method concatenates the elements from the Generic-Array, this method
      * is applied to, as a String and returns it.
-     * @return Returns all the elements from the Generic-Array as a string.
+     * @return Returns all the elements from the Generic-Array as a String.
      */
     public String list()    {
         String list="";
