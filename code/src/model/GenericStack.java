@@ -1,7 +1,5 @@
 package model;
 
-import java.util.EmptyStackException;
-
 /**
  * This class demonstrates a generic stack class.
  * @author Akhmadov Khasu
